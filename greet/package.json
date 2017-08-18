@@ -1,0 +1,8 @@
+{
+  "name": "greet",
+  "version": "0.0.1",
+  "devDependencies": {
+    "jasmine-node": ""
+  },
+  "scripts": { "test": "jasmine" }
+}
